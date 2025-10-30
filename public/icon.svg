@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#1C1C1C" rx="80"/>
+
+  <!-- Calculator body -->
+  <rect x="100" y="80" width="312" height="352" fill="#2C2C2C" rx="20"/>
+
+  <!-- Display screen -->
+  <rect x="130" y="110" width="252" height="80" fill="#1C1C1C" rx="10"/>
+
+  <!-- Euro symbol on display -->
+  <text x="256" y="170" font-family="Arial, sans-serif" font-size="60" font-weight="300" fill="#FFFFFF" text-anchor="middle">€</text>
+
+  <!-- Button grid -->
+  <!-- Row 1 - gray buttons -->
+  <rect x="140" y="220" width="60" height="50" fill="#505050" rx="8"/>
+  <rect x="226" y="220" width="60" height="50" fill="#505050" rx="8"/>
+  <rect x="312" y="220" width="60" height="50" fill="#505050" rx="8"/>
+
+  <!-- Row 2 - gray buttons -->
+  <rect x="140" y="285" width="60" height="50" fill="#505050" rx="8"/>
+  <rect x="226" y="285" width="60" height="50" fill="#505050" rx="8"/>
+  <rect x="312" y="285" width="60" height="50" fill="#505050" rx="8"/>
+
+  <!-- Row 3 - gray buttons and orange accent -->
+  <rect x="140" y="350" width="60" height="50" fill="#505050" rx="8"/>
+  <rect x="226" y="350" width="60" height="50" fill="#505050" rx="8"/>
+  <rect x="312" y="350" width="60" height="50" fill="#FF9500" rx="8"/>
+</svg>
